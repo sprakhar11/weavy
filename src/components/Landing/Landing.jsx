@@ -29,7 +29,7 @@ function Landing() {
             <div className="header-app-icon">weavy.</div>
             <div className="header-action-button-container">
               <div className="header-tabs">
-                <AnchorLink href="#home">Home</AnchorLink>
+                <AnchorLink href="#home">Prakhar_home</AnchorLink>
               </div>
               <div className="header-tabs">
                 <AnchorLink href="#feature">Features</AnchorLink>
